@@ -1,16 +1,39 @@
-### Hi there 👋
+# What's up :vulcan_tone3:
+ 
+My name is Luiz Felipe Diniz Costa, I am 16 years old and I am currently taking the third year of the Systems Development course at ETEC Camargo Aranha, São Paulo, Brazil.
 
-<!--
-**lfelipediniz/lfelipediniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+★ Curiosity: I own the [PermaCache](https://discord.gg/UeutKXCBpG) community in the discord!
 
-Here are some ideas to get you started:
+## :dart: Main Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=0D1117&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" />
+
+These are like technologies that I've been focusing on at the moment:
+
+![HTML](./images/html.svg)
+![CSS](./images/css.svg)
+![IONIC](./images/ion.svg)
+![NODE](./images/node.svg)
+![REACT](./images/react.svg)
+![TYPESCRIPT](./images/ts.svg)
+
+## :computer: About what I've been doing
+
+I am currently working on my CBT for the Systems Development course, as well as my knowledge of programming and the use of tools such as Figma, Gimp, Photoshop, After Effects, Premiere and Vegas Pro.
+
+<p> </br> </p>
+
+
+<h2 align="center">You can contact me by</h2>
+
+<p align="center">
+ 
+<a href="mailto:lfelipediniz@outlook.com">
+<img src="" &nbsp; &nbsp;
+
+ 
+<a href="https://twitter.com/lfdinizcosta%22%3E
+ <img src=" &nbsp; &nbsp;
+
+<a href="https://www.linkedin.com/in/luiz-felipe-diniz-costa-779689208/%22%3E
+ <img src="
