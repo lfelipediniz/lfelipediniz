@@ -1,4 +1,4 @@
-# What's up :vulcan_tone3:
+# What's up 
  
 My name is Luiz Felipe Diniz Costa, I am 16 years old and I am currently taking the third year of the Systems Development course at ETEC Camargo Aranha, São Paulo, Brazil.
 
