@@ -29,8 +29,6 @@ I am currently working on my CBT for the Systems Development course, as well as 
  </p>
 </details>
 
-<p> </br> </p>
-
 <h2 align="center">You can contact me by</h2>
 
 <p align="center">
