@@ -19,7 +19,7 @@ These are like technologies that I've been focusing on at the moment:
 
 ## :computer: About what I've been doing
 
-I am currently working on my CBT for the Systems Development course, as well as my knowledge of programming and the use of tools such as Figma, Gimp, Photoshop, After Effects, Premiere and Vegas Pro.
+I am currently working on my CBT for the Systems Development course, as well as my knowledge of programming and the use of tools such as Figma, Gimp, Photoshop, After Effects and Vegas Pro.
 
 <details>
     <summary align="left">More about my status:</summary>
