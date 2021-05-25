@@ -12,7 +12,6 @@ These are like technologies that I've been focusing on at the moment:
 
 ![HTML](./images/html.svg)
 ![CSS](./images/css.svg)
-![IONIC](./images/ion.svg)
 ![NODE](./images/node.svg)
 ![REACT](./images/react.svg)
 ![TYPESCRIPT](./images/ts.svg)
