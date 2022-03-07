@@ -1,5 +1,5 @@
 # What's up 🖖🏽
-My name is Luiz Felipe Diniz Costa, I'm 17 years old and I'm currently studying Computer Science at ICMC - USP, São Paulo, Brazil.
+My name is Luiz Felipe Diniz Costa, I'm 17 years old and I'm currently studying Computer Science at [ICMC - USP](https://www.icmc.usp.br/), São Paulo, Brazil.
 ★ Curiosity: I own the [PermaCache](https://discord.gg/UeutKXCBpG) community in the discord!
 
 ## :dart: Main Technologies
