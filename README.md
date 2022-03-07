@@ -1,7 +1,5 @@
 # What's up 🖖🏽
-
-My name is Luiz Felipe Diniz Costa, I am 17 years old and I am currently taking the third year of the Systems Development course at ETEC Camargo Aranha, São Paulo, Brazil.
-
+My name is Luiz Felipe Diniz Costa, I'm 17 years old and I'm currently studying Computer Science at ICMC - USP, São Paulo, Brazil.
 ★ Curiosity: I own the [PermaCache](https://discord.gg/UeutKXCBpG) community in the discord!
 
 ## :dart: Main Technologies
