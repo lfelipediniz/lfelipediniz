@@ -39,4 +39,4 @@ I am currently working on my CBT for the Systems Development course, as well as 
  <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/ff34bcdf7f53416082e39c01666f5f2fd40c906c/images/twitter.svg"> &nbsp; &nbsp;
 
 <a href="https://www.linkedin.com/in/luiz-felipe-diniz-costa-779689208/">
- <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/ff34bcdf7f53416082e39c01666f5f2fd40c906c/images/linkedin.svg">
+ <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/4ba31ac570f313d42cb20a02cd1ea420d8c8b93b/images/linkedin.svg">
