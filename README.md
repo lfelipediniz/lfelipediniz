@@ -26,16 +26,15 @@ Currently I finished my CBT for the Systems Development course, as well as my kn
     <summary align="left">More about my status:</summary>
 </details></br>
 
-
 <h2 align="center">You can contact me by</h2>
 
 <p align="center">
  
 <a href="mailto:lfelipediniz@outlook.com">
-<img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/ff34bcdf7f53416082e39c01666f5f2fd40c906c/images/mail.svg"> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/mail.svg"> &nbsp; &nbsp;
 
 <a href="https://twitter.com/lfdinizcosta">
- <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/ff34bcdf7f53416082e39c01666f5f2fd40c906c/images/twitter.svg"> &nbsp; &nbsp;
+ <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/twitter.svg"> &nbsp; &nbsp;
 
-<a href="https://www.linkedin.com/in/luiz-felipe-diniz-costa-779689208/">
- <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/4ba31ac570f313d42cb20a02cd1ea420d8c8b93b/images/linkedin.svg">
+<a href="https://www.linkedin.com/in/lfelipediniz/">
+ <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg">
