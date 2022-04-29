@@ -31,10 +31,10 @@ Currently I finished my CBT for the Systems Development course, as well as my kn
 <p align="center">
  
 <a href="mailto:lfelipediniz@outlook.com">
-<img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/mail.svg"> &nbsp; &nbsp;
+<img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/1c9fe903d03a66b31354c1345eb3f963ba0923d7/images/mail.svg"> &nbsp; &nbsp;
 
 <a href="https://twitter.com/lfdinizcosta">
- <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/twitter.svg"> &nbsp; &nbsp;
+ <img width="80"src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/twitter.svg"> &nbsp; &nbsp;
 
 <a href="https://www.linkedin.com/in/lfelipediniz/">
- <img src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg">
+ <img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg">
