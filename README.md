@@ -21,14 +21,18 @@ Currently I finished my CBT for the Systems Development course, as well as my kn
 
 </br>
 
-<details> <summary markdown="span">More info</summary>
-        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=lfelipediniz&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=DD6387&currStreakLabel=82AAFF&currStreakNum=82AAFF" width="465px" height="210"/>
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=lfelipediniz&show_icons=false&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF"" width="465px" height="210" />
+<details>
+    <summary markdown="span">More info</summary>
+        <p align="center">
+        <img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=lfelipediniz&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=DD6387&currStreakLabel=82AAFF&currStreakNum=82AAFF"/> 
+        <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=lfelipediniz&show_icons=false&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF"" /> </p>
         
-</details></br>
+</details>
 
-## 
+<h2 align="center">You can tell me by</h2>
+
 <p align="center">
+                 
                 
 <a href="mailto:lfelipediniz@outlook.com">
 <img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg"> &nbsp; &nbsp;
