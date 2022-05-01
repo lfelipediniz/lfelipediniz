@@ -21,15 +21,13 @@ Currently I finished my CBT for the Systems Development course, as well as my kn
 
 </br>
 
-<details>
+<details> <summary markdown="span">More info</summary>
         <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=lfelipediniz&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=DD6387&currStreakLabel=82AAFF&currStreakNum=82AAFF" width="465px" height="210"/>
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=lfelipediniz&show_icons=false&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF"" width="465px" height="210" /></br></br></br></br></br></br></br>
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=lfelipediniz&show_icons=false&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF"" width="465px" height="210" />
         
 </details></br>
 
-                                        
-<h2 align="center">  You can tell me by </h2>
-                  
+## 
 <p align="center">
                 
 <a href="mailto:lfelipediniz@outlook.com">
