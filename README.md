@@ -35,7 +35,7 @@ Currently I finished my CBT for the Systems Development course, as well as my kn
 <p align="center">
                  
                 
-<a href="mailto:lfelipediniz@outlook.com">
+<a href="mailto:lfediniz@usp.br">
 <img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg"> &nbsp; &nbsp;
 
 <a href="https://twitter.com/lfdinizcosta">
