@@ -30,11 +30,10 @@ Currently I finished my CBT for the Systems Development course, as well as my kn
         
 </details>
 
-<h2 align="center">You can tell me by</h2>
+
 
 <p align="center">
                  
-                
 <a href="mailto:lfediniz@usp.br">
 <img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg"> &nbsp; &nbsp;
 
