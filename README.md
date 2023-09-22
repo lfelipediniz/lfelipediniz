@@ -18,7 +18,7 @@ These are like technologies that I've been focusing on at the moment:
 
 ## :computer: About what I've been doing
 
-Currently I finished my CBT for the Systems Development course, as well as my knowledge of programming and use of tools like Figma, Gimp, Photoshop, After Effects and Vegas Pro.
+I am currently delving into low-level programming to establish a more robust foundation, while also embarking on my journey to learn the Python programming language. This dual approach allows me to not only understand the intricate workings of computer systems at a fundamental level but also harness the versatility and power of Python for a wide range of applications.
 
 </br>
 
