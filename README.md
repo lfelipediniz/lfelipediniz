@@ -13,8 +13,7 @@ These are like technologies that I've been focusing on at the moment:
 ![TypeScript](https://img.shields.io/badge/-Typescript-blue?&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-0065b8?&logo=react)
 ![C++](https://img.shields.io/badge/C++-0081EB.svg?style=flat&logo=c%2B%2B)
-![CSS3](https://img.shields.io/badge/-CSS3-0089c4?&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?&logo=html5&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white)
 
 ## :computer: About what I've been doing
 
