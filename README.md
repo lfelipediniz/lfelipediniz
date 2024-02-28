@@ -33,7 +33,7 @@ I am currently delving into low-level programming to establish a more robust fou
 
 <p align="center">
                  
-<a href="mailto:lfediniz@usp.br">
+<a href="mailto:lfediniz@gmail.com">
 <img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg"> &nbsp; &nbsp;
 
 <a href="https://twitter.com/lfdinizcosta">
