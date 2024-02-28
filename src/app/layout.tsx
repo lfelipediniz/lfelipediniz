@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "About Luiz Felipe",
+  title: "Luiz Felipe",
   description: "Website sobre a vida academica e profissional de Luiz Felipe Diniz Costa",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
