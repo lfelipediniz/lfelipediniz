@@ -6,7 +6,7 @@ My name is Luiz Felipe Diniz Costa, I'm currently studying Computer Science at [
 
 ## :dart: Main Technologies
 
-<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF" />
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF&hide=html,css,makefile,shell,gdscript" />
 
 These are like technologies that I've been focusing on at the moment:
 
