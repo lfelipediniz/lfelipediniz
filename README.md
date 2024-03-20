@@ -27,19 +27,10 @@ I am currently delving into low-level programming to establish a more robust fou
         
 </details>
 
-
-
-<p align="center">                 
-  <a href="mailto:lfediniz@gmail.com">
-    <img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg" "> 
-  </a>
-
-  <a href="https://twitter.com/lfdinizcosta">
-    <img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/twitter.svg"> 
-  </a>
-
-  <a href="https://www.linkedin.com/in/lfelipediniz/">
-    <img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg">
-  </a>
+<p align="center">
+<a href="mailto:lfediniz@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg" alt="lfdinizcosta" height="60" width="60" /></a>
+<a href="https://twitter.com/lfdinizcosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/twitter.svg" alt="lfelipedinz" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/lfelipedinz" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg" alt="lfelipedinz" height="60" width="60" /></a>
+    
 </p>
 
