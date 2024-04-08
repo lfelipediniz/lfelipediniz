@@ -2,6 +2,8 @@
 
 My name is Luiz Felipe Diniz Costa, I'm currently studying Computer Science at [ICMC - USP](https://www.icmc.usp.br/), São Paulo, Brazil.
 
+★ Curiosity: I own the [PermaCache](https://discord.gg/UeutKXCBpG) community in the discord!
+
 ## :dart: About what I've been doing
 
 <img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF&hide=html,css,makefile,shell,gdscript" />
