@@ -5,7 +5,7 @@
 
 ## :dart: About what I've been doing
 
-<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF&hide=html,css,makefile,shell,gdscript" />
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=DD6387&text_color=41B883&hide=html,css,makefile,shell,gdscript" />
 
 These are like technologies that I've been focusing on at the moment:
 
@@ -21,7 +21,7 @@ I am currently delving into low-level programming to establish a more robust fou
 <details>
     <summary markdown="span">More info</summary>
         <p>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=lfelipediniz&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=DD6387&currStreakLabel=82AAFF&currStreakNum=82AAFF"/> 
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lfelipediniz&theme=vue-dark&hide_border=true&background=FFFFFF00" alt="GitHub Streak" /></a>
         </p>
         
 </details>
@@ -32,4 +32,3 @@ I am currently delving into low-level programming to establish a more robust fou
 <a href="https://www.linkedin.com/in/lfelipediniz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg" alt="lfelipedinz" height="80" width="80" /></a>
     
 </p>
-
