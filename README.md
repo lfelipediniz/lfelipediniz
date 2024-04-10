@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Luiz%20Felipe%20Diniz%20Costa&section=header&fontAlign=50&fontAlignY=32&desc=Software%20Engineer&textBg=false&fontSize=40&descAlignY=52&descSize=20)
-<!-- -->
+![header](./public/images/api.svg)
 ### What's up 🖖🏽 
 I'm currently studying Computer Science at [ICMC - USP](https://www.icmc.usp.br/), São Paulo, Brazil.
 
