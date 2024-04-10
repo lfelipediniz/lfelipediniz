@@ -1,5 +1,5 @@
 ![header](./public/images/api.svg)
-<p style="font-size:20px;"><strong>What's up 🖖🏽</strong></p>
+## What's up 🖖🏽
 I'm currently studying Computer Science at [ICMC - USP](https://www.icmc.usp.br/), São Paulo, Brazil.
 
 ★ Curiosity: I own the [PermaCache](https://discord.gg/UeutKXCBpG) community in the discord!
