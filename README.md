@@ -1,12 +1,13 @@
-# What's up 🖖🏽
-
-My name is Luiz Felipe Diniz Costa, I'm currently studying Computer Science at [ICMC - USP](https://www.icmc.usp.br/), São Paulo, Brazil.
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Luiz%20Felipe%20Diniz%20Costa&section=header&fontAlign=50&fontAlignY=32&desc=Software%20Engineer&textBg=false&fontSize=40&descAlignY=52&descSize=20)
+<!-- -->
+### What's up 🖖🏽 
+I'm currently studying Computer Science at [ICMC - USP](https://www.icmc.usp.br/), São Paulo, Brazil.
 
 ★ Curiosity: I own the [PermaCache](https://discord.gg/UeutKXCBpG) community in the discord!
 
-## :dart: Main Technologies
+## :dart: About what I've been doing
 
-<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF" />
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=82AAFF&text_color=82AAFF&hide=html,css,makefile,shell,gdscript" />
 
 These are like technologies that I've been focusing on at the moment:
 
@@ -14,8 +15,6 @@ These are like technologies that I've been focusing on at the moment:
 ![React](https://img.shields.io/badge/-React-0065b8?&logo=react)
 ![C++](https://img.shields.io/badge/C++-0081EB.svg?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white)
-
-## :computer: About what I've been doing
 
 I am currently delving into low-level programming to establish a more robust foundation, while also embarking on my journey to learn the Python programming language. This dual approach allows me to not only understand the intricate workings of computer systems at a fundamental level but also harness the versatility and power of Python for a wide range of applications.
 
@@ -29,16 +28,10 @@ I am currently delving into low-level programming to establish a more robust fou
         
 </details>
 
-
-
 <p align="center">
-                 
-<a href="mailto:lfediniz@gmail.com">
-<img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg"> &nbsp; &nbsp;
-
-<a href="https://twitter.com/lfdinizcosta">
-<img width="80"src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/twitter.svg"> &nbsp; &nbsp;
-
-<a href="https://www.linkedin.com/in/lfelipediniz/">
-<img width="80" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg">
+<a href="mailto:lfediniz@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg" alt="lfdinizcosta" height="80" width="80" /></a>
+<a href="https://twitter.com/lfdinizcosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/twitter.svg" alt="lfelipedinz" height="80" width="80" /></a>
+<a href="https://www.linkedin.com/in/lfelipediniz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg" alt="lfelipedinz" height="80" width="80" /></a>
+    
 </p>
+
