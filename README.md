@@ -20,9 +20,8 @@ I am currently delving into low-level programming to establish a more robust fou
 
 <details>
     <summary markdown="span">More info</summary>
-        <p>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lfelipediniz&theme=vue-dark&hide_border=true&background=FFFFFF00&fire=DD6387&currStreakNum=CA86FF&stroke=CA86FF&ring=CA86FF&sideNums=CA86FF&currStreakLabel=CA86FF&sideLabels=CA86FF&dates=CA86FF&excludeDaysLabel=CA86FF" alt="GitHub Streak" /></a>
-        </p>
+    <img src="https://streak-stats.demolab.com?user=lfelipediniz&theme=vue-dark&hide_border=true&background=FFFFFF00&fire=DD6387&currStreakNum=CA86FF&stroke=CA86FF&ring=CA86FF&sideNums=CA86FF&currStreakLabel=CA86FF&sideLabels=CA86FF&dates=CA86FF&excludeDaysLabel=CA86FF" alt="GitHub Streak" />
+            
         
 </details>
 
