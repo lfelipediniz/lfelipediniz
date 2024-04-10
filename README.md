@@ -5,7 +5,9 @@
 
 ## :dart: About what I've been doing
 
+<a href="https://github.com/lfelipediniz?tab=repositories">
 <img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=DD6387&text_color=CA86FF&hide=html,css,makefile,shell,gdscript" />
+</a>
 
 These are like technologies that I've been focusing on at the moment:
 
@@ -20,7 +22,9 @@ I am currently delving into low-level programming to establish a more robust fou
 
 <details>
     <summary markdown="span">More info</summary>
+    <a href="https://github.com/lfelipediniz?tab=repositories">
     <img src="https://streak-stats.demolab.com?user=lfelipediniz&theme=vue-dark&hide_border=true&background=FFFFFF00&fire=DD6387&currStreakNum=CA86FF&stroke=CA86FF&ring=CA86FF&sideNums=CA86FF&currStreakLabel=CA86FF&sideLabels=CA86FF&dates=CA86FF&excludeDaysLabel=CA86FF" alt="GitHub Streak" />
+    </a>
             
         
 </details>
