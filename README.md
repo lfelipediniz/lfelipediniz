@@ -1,8 +1,7 @@
-![header](./public/images/api.svg)
-**What's up 🖖🏽**
-I'm currently studying Computer Science at [ICMC - USP](https://www.icmc.usp.br/), São Paulo, Brazil.
-
-★ Curiosity: I own the [PermaCache](https://discord.gg/UeutKXCBpG) community in the discord!
+<img src="./public/images/api.svg" alt="header">
+    <img src="./public/api.svg" alt="header">
+    <p>I'm currently studying Computer Science at <a href="https://www.icmc.usp.br/">ICMC - USP</a>, São Paulo, Brazil.</p>
+    <p>★ Curiosity: I own the <a href="https://discord.gg/UeutKXCBpG">PermaCache</a> community in Discord!</p>
 
 ## :dart: About what I've been doing
 
