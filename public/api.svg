@@ -19,13 +19,10 @@
         fill: none;
       }
       .text-fill {
-        fill: white;
+        fill: #DD6387;
       }
     </style>
   </defs>
-
-  <!-- border  -->
-  <text text-anchor="left" alignment-baseline="middle" y="30%" class="text text-stroke">What's up 🖖🏽</text>
 
   <text text-anchor="left" alignment-baseline="middle" y="30%" class="text text-fill">What's up 🖖🏽</text>
 </svg>
