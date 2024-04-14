@@ -19,7 +19,7 @@
         fill: none;
       }
       .text-fill {
-        fill: #DD6387;
+        fill: #EB5454;
       }
     </style>
   </defs>

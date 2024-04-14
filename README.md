@@ -1,12 +1,12 @@
-<img src="./public/images/api.svg" alt="header">
-    <img src="./public/api.svg" alt="header">
+<img src="./public/images/header.svg" alt="header">
+    <img src="./public/images/hi.svg" alt="header">
     <p>I'm currently studying Computer Science at <a href="https://www.icmc.usp.br/">ICMC - USP</a>, São Paulo, Brazil.</p>
     <p>★ Curiosity: I own the <a href="https://discord.gg/UeutKXCBpG">PermaCache</a> community in Discord!</p>
 
 ## :dart: About what I've been doing
 
 <a href="https://github.com/lfelipediniz?tab=repositories">
-<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=DD6387&text_color=CA86FF&hide=html,css,makefile,shell,gdscript" />
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=EB5454&text_color=78909C&hide=html,css,makefile,shell,gdscript" />
 </a>
 
 These are like technologies that I've been focusing on at the moment:
@@ -23,15 +23,15 @@ I am currently delving into low-level programming to establish a more robust fou
 <details>
     <summary markdown="span">More info</summary>
     <a href="https://github.com/lfelipediniz?tab=repositories">
-    <img src="https://streak-stats.demolab.com?user=lfelipediniz&theme=vue-dark&hide_border=true&background=FFFFFF00&fire=DD6387&currStreakNum=CA86FF&stroke=CA86FF&ring=CA86FF&sideNums=CA86FF&currStreakLabel=CA86FF&sideLabels=CA86FF&dates=CA86FF&excludeDaysLabel=CA86FF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=lfelipediniz&theme=vue-dark&hide_border=true&background=FFFFFF00&fire=EB5454&currStreakNum=EB5454&stroke=78909C&ring=EB5454&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EB5454&dates=78909C&excludeDaysLabel=EB5454" alt="GitHub Streak" />
     </a>
             
         
 </details>
 
 <p align="center">
-<a href="mailto:lfediniz@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/6cb6a63f5e5dfae31c510ece8f39b6d2ac5aa444/images/mail.svg" alt="lfdinizcosta" height="80" width="80" /></a>
-<a href="https://twitter.com/lfdinizcosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/twitter.svg" alt="lfelipedinz" height="80" width="80" /></a>
-<a href="https://www.linkedin.com/in/lfelipediniz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/lfelipediniz/lfelipediniz/b3591137d20bf46d53626458c49cd47508deab3b/images/linkedin.svg" alt="lfelipedinz" height="80" width="80" /></a>
+<a href="mailto:lfediniz@gmail.com" target="blank"><img align="center" src="./public/images/mail.svg" alt="lfdinizcosta" height="80" width="80" /></a>
+<a href="https://twitter.com/lfdinizcosta" target="blank"><img align="center" src="./public/images/twitter.svg" alt="lfelipedinz" height="80" width="80" /></a>
+<a href="https://www.linkedin.com/in/lfelipediniz/" target="blank"><img align="center" src="./public/images/linkedin.svg" alt="lfelipedinz" height="80" width="80" /></a>
     
 </p>
