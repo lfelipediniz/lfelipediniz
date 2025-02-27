@@ -19,15 +19,6 @@ I am currently delving into low-level programming to establish a more robust fou
 
 </br>
 
-<details>
-    <summary markdown="span">More info</summary>
-    <a href="https://github.com/lfelipediniz?tab=repositories">
-    <img src="https://streak-stats.demolab.com?user=lfelipediniz&theme=vue-dark&hide_border=true&background=FFFFFF00&fire=EB5454&currStreakNum=EB5454&stroke=78909C&ring=EB5454&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EB5454&dates=78909C&excludeDaysLabel=EB5454" alt="GitHub Streak" />
-    </a>
-            
-        
-</details>
-
 <p align="center">
 <a href="mailto:lfediniz@gmail.com" target="blank"><img align="center" src="./public/images/mail.svg" alt="lfdinizcosta" height="80" width="80" /></a>
 <a href="https://twitter.com/lfdinizcosta" target="blank"><img align="center" src="./public/images/twitter.svg" alt="lfelipedinz" height="80" width="80" /></a>
