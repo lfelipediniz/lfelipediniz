@@ -1,4 +1,3 @@
-
 import { useLanguage } from "@/hooks/useLanguage";
 import { t } from "@/lib/translations";
 import { Button } from "@/components/ui/button";
@@ -29,20 +28,24 @@ export function Hero() {
         <h2 className="text-xl sm:text-2xl md:text-3xl font-medium text-foreground/80 animate-slide-up [animation-delay:400ms]">
           {t('hero.title', language)}
         </h2>
-        <p className="text-lg text-foreground/70  mx-auto animate-slide-up [animation-delay:500ms]">
+        <p className="text-lg text-foreground/70 mx-auto animate-slide-up [animation-delay:500ms]">
           {t('hero.subtitle', language)}
         </p>
         <div className="pt-4 flex flex-col sm:flex-row justify-center items-center gap-4 animate-slide-up [animation-delay:600ms]">
-          <Button asChild className="rounded-full px-6 py-6 h-auto text-base transition-all duration-300 hover:bg-primary/90">
+          <Button 
+            asChild 
+            className="rounded-lg px-6 py-6 h-auto text-base transition-all duration-300 hover:bg-primary/90"
+          >
             <a href="#about">
-              {t('nav.about', language)} <ArrowRight className="ml-2 h-4 w-4" />
+              {t('nav.about', language)}{" "}
+              <ArrowRight className="ml-2 h-4 w-4" strokeWidth={3} />
             </a>
           </Button>
           
           <Button 
             asChild 
             variant="outline" 
-            className="rounded-full px-6 py-6 h-auto text-base border-2 border-primary/20 bg-background/50 backdrop-blur-sm hover:bg-primary/10 hover:border-primary/30 transition-all duration-300 group"
+            className="rounded-lg px-6 py-6 h-auto text-base border-2 border-primary/20 bg-background/50 backdrop-blur-sm hover:bg-primary/10 hover:border-primary/30 transition-all duration-300 group"
           >
             <a 
               href="https://bit.ly/luiz-felipe-curriculo" 
