@@ -77,6 +77,11 @@ export function About() {
               <p className="text-sm text-muted-foreground">{t('about.experience.fusp.date', language)}</p>
               <p className="text-sm">{t('about.experience.fusp.description', language)}</p>
             </div>
+            <div className="space-y-2">
+              <h4 className="font-medium">{t('about.experience.data.title', language)}</h4>
+              <p className="text-sm text-muted-foreground">{t('about.experience.data.date', language)}</p>
+              <p className="text-sm">{t('about.experience.data.description', language)}</p>
+            </div>
             
             <div className="space-y-2">
               <h4 className="font-medium">{t('about.experience.semcomp.title', language)}</h4>
@@ -84,11 +89,6 @@ export function About() {
               <p className="text-sm">{t('about.experience.semcomp.description', language)}</p>
             </div>
             
-            <div className="space-y-2">
-              <h4 className="font-medium">{t('about.experience.data.title', language)}</h4>
-              <p className="text-sm text-muted-foreground">{t('about.experience.data.date', language)}</p>
-              <p className="text-sm">{t('about.experience.data.description', language)}</p>
-            </div>
           </CardContent>
         </Card>
       </div>
