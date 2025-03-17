@@ -3,14 +3,14 @@ import { useLanguage } from "@/hooks/useLanguage";
 import { t } from "@/lib/translations";
 import { ArrowRight } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button"; // Importando o botão novamente
+import { Button } from "@/components/ui/button"; 
 
 export function Projects() {
   const { language } = useLanguage();
   const [repos, setRepos] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
-  const [showAll, setShowAll] = useState(false); // Controla a exibição de todos os projetos
+  const [showAll, setShowAll] = useState(false); 
 
   useEffect(() => {
     async function fetchRepos() {
@@ -19,7 +19,7 @@ export function Projects() {
           "https://api.github.com/users/lfelipediniz/repos"
         );
         const data = await response.json();
-        // Ordena os repositórios pela data de atualização (mais recente primeiro)
+        // ordena os repositórios pela data de atualização (mais recente primeiro)
         const sortedRepos = data.sort(
           (a, b) =>
             new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime()
@@ -36,14 +36,14 @@ export function Projects() {
   }, []);
 
   const handleShowAllClick = () => {
-    setShowAll(true); // Exibe todos os projetos
+    setShowAll(true); 
   };
 
   const handleShowLessClick = () => {
-    setShowAll(false); // Exibe apenas os 6 primeiros projetos
+    setShowAll(false); 
   };
 
-  const displayedRepos = showAll ? repos : repos.slice(0, 6); // Exibe os 6 primeiros ou todos
+  const displayedRepos = showAll ? repos : repos.slice(0, 6); 
 
   return (
     <section id="projects" className="section-container py-20 px-4">
@@ -94,7 +94,9 @@ export function Projects() {
               <p
                 onClick={handleShowAllClick}
                 className="hover:underline cursor-pointer"
-                style={{ color: "var(--primary)" }}
+                style={{
+                  color: "rgb(30, 144, 255)",
+                }}
               >
                 {t("projects.viewAll", language)}{" "}
               </p>
@@ -102,7 +104,9 @@ export function Projects() {
               <p
                 onClick={handleShowLessClick}
                 className="hover:underline cursor-pointer"
-                style={{ color: "var(--primary)" }}
+                style={{
+                  color: "rgb(70, 130, 180)", 
+                }}
               >
                 {t("projects.viewLess", language)}{" "}
               </p>
