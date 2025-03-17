@@ -10,12 +10,13 @@
 
 These are like technologies that I've been focusing on at the moment:
 
+![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-Typescript-blue?&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-0065b8?&logo=react)
 ![C++](https://img.shields.io/badge/C++-0081EB.svg?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white)
 
-I am currently delving into low-level programming to establish a more robust foundation, while also embarking on my journey to learn the Python programming language. This dual approach allows me to not only understand the intricate workings of computer systems at a fundamental level but also harness the versatility and power of Python for a wide range of applications.
+
+I'm focusing on the fundamentals of software engineering while diving into machine learning with data science.
 
 </br>
 
