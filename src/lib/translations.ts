@@ -160,7 +160,15 @@ export const translations: Translations = {
     pt: 'Ver Menos',
   },
 
-  
+  'projects.filterRecent': {
+    en: 'Recents',
+    pt: 'Recentes',
+  },
+
+  'projects.filterMostStars': {
+    en: 'More Stars',
+    pt: 'Mais Estrelas',
+  },
 
   // Contact Section
   'contact.title': {

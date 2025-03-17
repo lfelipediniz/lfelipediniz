@@ -3,14 +3,16 @@ import { useLanguage } from "@/hooks/useLanguage";
 import { t } from "@/lib/translations";
 import { ArrowRight } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button"; 
+import { Button } from "@/components/ui/button";
 
 export function Projects() {
   const { language } = useLanguage();
   const [repos, setRepos] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
-  const [showAll, setShowAll] = useState(false); 
+  const [showAll, setShowAll] = useState(false);
+  // Estado para definir qual filtro está ativo: "recent" ou "mostStars"
+  const [filter, setFilter] = useState<"recent" | "mostStars">("recent");
 
   useEffect(() => {
     async function fetchRepos() {
@@ -19,12 +21,12 @@ export function Projects() {
           "https://api.github.com/users/lfelipediniz/repos"
         );
         const data = await response.json();
-        // ordena os repositórios pela data de atualização (mais recente primeiro)
+        // Ordena os repositórios pela data de atualização (mais recente primeiro) por padrão
         const sortedRepos = data.sort(
-          (a, b) =>
+          (a: any, b: any) =>
             new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime()
         );
-        setRepos(sortedRepos); // Exibe todos os repositórios
+        setRepos(sortedRepos);
       } catch (error) {
         console.error("Erro ao buscar repositórios:", error);
         setError(true);
@@ -36,14 +38,23 @@ export function Projects() {
   }, []);
 
   const handleShowAllClick = () => {
-    setShowAll(true); 
+    setShowAll(true);
   };
 
   const handleShowLessClick = () => {
-    setShowAll(false); 
+    setShowAll(false);
   };
 
-  const displayedRepos = showAll ? repos : repos.slice(0, 6); 
+  // Cria uma cópia dos repositórios e ordena conforme o filtro selecionado
+  const filteredRepos = [...repos].sort((a, b) => {
+    if (filter === "mostStars") {
+      return b.stargazers_count - a.stargazers_count;
+    } else {
+      return new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime();
+    }
+  });
+
+  const displayedRepos = showAll ? filteredRepos : filteredRepos.slice(0, 6);
 
   return (
     <section id="projects" className="section-container py-20 px-4">
@@ -56,6 +67,22 @@ export function Projects() {
         <p>{t("projects.empty", language)}</p>
       ) : (
         <div>
+          {/* Filtros */}
+          <div className="flex gap-4 mb-4">
+            <Button
+              variant={filter === "recent" ? "default" : "outline"}
+              onClick={() => setFilter("recent")}
+            >
+              {t("projects.filterRecent", language) || "Mais recentes"}
+            </Button>
+            <Button
+              variant={filter === "mostStars" ? "default" : "outline"}
+              onClick={() => setFilter("mostStars")}
+            >
+              {t("projects.filterMostStars", language) || "Repositórios com mais estrelas"}
+            </Button>
+          </div>
+          {/* Grid de repositórios */}
           <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
             {displayedRepos.map((repo) => (
               <Card
@@ -105,7 +132,7 @@ export function Projects() {
                 onClick={handleShowLessClick}
                 className="hover:underline cursor-pointer"
                 style={{
-                  color: "rgb(70, 130, 180)", 
+                  color: "rgb(70, 130, 180)",
                 }}
               >
                 {t("projects.viewLess", language)}{" "}
