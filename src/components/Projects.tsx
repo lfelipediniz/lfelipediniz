@@ -88,22 +88,23 @@ export function Projects() {
               </Card>
             ))}
           </div>
+          <br />
           <div className="mt-4 text-center">
             {!showAll ? (
               <p
                 onClick={handleShowAllClick}
-                className="text-blue-600 hover:underline cursor-pointer"
+                className="hover:underline cursor-pointer"
+                style={{ color: "var(--primary)" }}
               >
                 {t("projects.viewAll", language)}{" "}
-                {/* Texto do link traduzido */}
               </p>
             ) : (
               <p
                 onClick={handleShowLessClick}
-                className="text-blue-600 hover:underline cursor-pointer"
+                className="hover:underline cursor-pointer"
+                style={{ color: "var(--primary)" }}
               >
                 {t("projects.viewLess", language)}{" "}
-                {/* Texto do link traduzido */}
               </p>
             )}
           </div>
