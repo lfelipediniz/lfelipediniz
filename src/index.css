@@ -112,4 +112,8 @@
   .section-title {
     @apply text-3xl md:text-4xl font-display font-bold mb-12 text-gradient;
   }
+
+  .button-soft {
+    @apply bg-muted text-muted-foreground border  hover:bg-muted-foreground hover:text-primary-foreground;
+  }
 }

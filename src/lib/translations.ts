@@ -150,6 +150,17 @@ export const translations: Translations = {
     en: 'View Project',
     pt: 'Ver Projeto',
   },
+  'projects.viewAll': {
+    en: 'View All Projects',
+    pt: 'Ver Todos os Projetos',
+  },
+
+  'projects.viewLess': {
+    en: 'See Less',
+    pt: 'Ver Menos',
+  },
+
+  
 
   // Contact Section
   'contact.title': {
