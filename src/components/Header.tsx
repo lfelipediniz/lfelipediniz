@@ -47,11 +47,11 @@ export function Header() {
                   {t('nav.about', language)}
                 </a>
               </li>
-              {/* <li>
+              <li>
                 <a href="#projects" className="text-foreground/80 hover:text-foreground transition-colors">
                   {t('nav.projects', language)}
                 </a>
-              </li> */}
+              </li>
               <li>
                 <a href="#contact" className="text-foreground/80 hover:text-foreground transition-colors">
                   {t('nav.contact', language)}

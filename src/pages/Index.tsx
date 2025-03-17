@@ -5,6 +5,7 @@ import { About } from "@/components/About";
 import { Contact } from "@/components/Contact";
 import { ThemeProvider } from "@/hooks/useTheme";
 import { LanguageProvider } from "@/hooks/useLanguage";
+import { Projects } from "@/components/Projects";
 
 const Index = () => {
   return (
@@ -15,7 +16,7 @@ const Index = () => {
           <main className="flex-grow">
             <Hero />
             <About />
-
+          <Projects />
             <Contact />
           </main>
           <footer className="py-6 border-t">
