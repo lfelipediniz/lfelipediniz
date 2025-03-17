@@ -11,7 +11,6 @@ export function Projects() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const [showAll, setShowAll] = useState(false);
-  // Estado para definir qual filtro está ativo: "recent" ou "mostStars"
   const [filter, setFilter] = useState<"recent" | "mostStars">("recent");
 
   useEffect(() => {
@@ -21,7 +20,7 @@ export function Projects() {
           "https://api.github.com/users/lfelipediniz/repos"
         );
         const data = await response.json();
-        // Ordena os repositórios pela data de atualização (mais recente primeiro) por padrão
+        // ordena os repositórios pela data de atualização (mais recente primeiro) por padrão
         const sortedRepos = data.sort(
           (a: any, b: any) =>
             new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime()
@@ -45,7 +44,7 @@ export function Projects() {
     setShowAll(false);
   };
 
-  // Cria uma cópia dos repositórios e ordena conforme o filtro selecionado
+  // cria uma cópia dos repositórios e ordena conforme o filtro selecionado
   const filteredRepos = [...repos].sort((a, b) => {
     if (filter === "mostStars") {
       return b.stargazers_count - a.stargazers_count;
