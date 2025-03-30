@@ -6,6 +6,11 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 export function Hero() {
   const { language } = useLanguage();
+  
+  // curriculo baseado no idioma
+  const curriculumLink = language === 'pt'
+    ? "https://drive.google.com/file/d/1WIifEwKPTd_GShvw8wKjbAu-THVqZQGI/view?usp=sharing"
+    : "https://drive.google.com/file/d/1XONvJ_dZkdK5Yw_rEnPcD-sYVLeBQUb-/view?usp=sharing";
 
   return (
     <section className="min-h-[75vh] flex items-center justify-center py-20 px-4 relative">
@@ -48,7 +53,7 @@ export function Hero() {
             className="rounded-lg px-6 py-6 h-auto text-base border-2 border-primary/20 bg-background/50 backdrop-blur-sm hover:bg-primary/10 hover:border-primary/30 transition-all duration-300 group"
           >
             <a 
-              href="https://bit.ly/luiz-felipe-curriculo" 
+              href={curriculumLink} 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center"
