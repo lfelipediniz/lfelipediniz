@@ -9,8 +9,8 @@ export function Hero() {
   
   // curriculo baseado no idioma
   const curriculumLink = language === 'pt'
-    ? "https://drive.google.com/file/d/1WIifEwKPTd_GShvw8wKjbAu-THVqZQGI/view?usp=sharing"
-    : "https://drive.google.com/file/d/1XONvJ_dZkdK5Yw_rEnPcD-sYVLeBQUb-/view?usp=sharing";
+    ? "https://drive.google.com/file/d/1HSCKHFJcdR9CLY4-rjLGRiUoUjmCI3Ar/view?usp=sharing"
+    : "https://drive.google.com/file/d/15njlHA95Yy4qrgrGI5Ij7zpgTcAPggyG/view?usp=sharing";
 
   return (
     <section className="min-h-[75vh] flex items-center justify-center py-20 px-4 relative">
