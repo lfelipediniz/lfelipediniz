@@ -9,7 +9,7 @@ export function Hero() {
   
   // curriculo baseado no idioma
   const curriculumFile = language === 'pt' ? 'cv-pt.pdf' : 'cv-en.pdf';
-  const curriculumLink = `/cv/${curriculumFile}`;
+  const curriculumLink = `/${curriculumFile}`;
 
   return (
     <section className="min-h-[75vh] flex items-center justify-center py-20 px-4 relative">
