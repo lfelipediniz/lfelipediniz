@@ -8,13 +8,12 @@ export function Hero() {
   const { language } = useLanguage();
   
   // curriculo baseado no idioma
-  const curriculumLink = language === 'pt'
-    ? "https://drive.google.com/file/d/1HSCKHFJcdR9CLY4-rjLGRiUoUjmCI3Ar/view?usp=sharing"
-    : "https://drive.google.com/file/d/15njlHA95Yy4qrgrGI5Ij7zpgTcAPggyG/view?usp=sharing";
+  const curriculumFile = language === 'pt' ? 'cv-pt.pdf' : 'cv-en.pdf';
+  const curriculumLink = `/cv/${curriculumFile}`;
 
   return (
     <section className="min-h-[75vh] flex items-center justify-center py-20 px-4 relative">
-      <div className="max-w-4xl w-full text-center space-y-6 animate-fade-in-slow">
+      <div className="max-w-4xl w-full text-center space-y-6">
         <div className="flex justify-center mb-6">
           <Avatar className="h-36 w-36 border-2 border-primary/20">
             <AvatarImage 
@@ -24,19 +23,19 @@ export function Hero() {
             <AvatarFallback>LF</AvatarFallback>
           </Avatar>
         </div>
-        <p className="text-lg font-medium text-foreground/70 animate-slide-up [animation-delay:200ms]">
+        <p className="text-lg font-medium text-foreground/70">
           {t('hero.greeting', language)}
         </p>
-        <h1 className="text-5xl sm:text-6xl md:text-7xl font-display font-bold text-gradient animate-slide-up [animation-delay:300ms]">
+        <h1 className="text-5xl sm:text-6xl md:text-7xl font-display font-bold text-gradient">
           {t('hero.name', language)}
         </h1>
-        <h2 className="text-xl sm:text-2xl md:text-3xl font-medium text-foreground/80 animate-slide-up [animation-delay:400ms]">
+        <h2 className="text-xl sm:text-2xl md:text-3xl font-medium text-foreground/80">
           {t('hero.title', language)}
         </h2>
-        <p className="text-lg text-foreground/70 mx-auto animate-slide-up [animation-delay:500ms]">
+        <p className="text-lg text-foreground/70 mx-auto">
           {t('hero.subtitle', language)}
         </p>
-        <div className="pt-4 flex flex-col sm:flex-row justify-center items-center gap-4 animate-slide-up [animation-delay:600ms]">
+        <div className="pt-4 flex flex-col sm:flex-row justify-center items-center gap-4">
           <Button 
             asChild 
             className="rounded-lg px-6 py-6 h-auto text-base transition-all duration-300 hover:bg-primary/90"
