@@ -5,7 +5,7 @@
 ## :dart: About what I've been doing
 
 <a href="https://github.com/lfelipediniz?tab=repositories">
-<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=EB5454&text_color=78909C&hide=html,css,makefile,shell,gdscript" />
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipediniz&bg_color=00000000&hide_border=true&title_color=EB5454&text_color=78909C&hide=html,css,makefile,shell,gdscript,jupyter%20notebook,javascript" />
 </a>
 
 These are like technologies that I've been focusing on at the moment:
