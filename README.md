@@ -9,7 +9,6 @@ These are like technologies that I've been focusing on at the moment:
 ![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-Typescript-blue?&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-0065b8?&logo=react)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=go&logoColor=white)
 
 I am focusing on Software Engineering, working with Data and Applied AI.
 
