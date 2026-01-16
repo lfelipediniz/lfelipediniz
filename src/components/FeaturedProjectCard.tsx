@@ -1,6 +1,7 @@
+import { useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { Github, Globe, ArrowRight } from "lucide-react";
+import { Github, Globe, Play } from "lucide-react";
 
 interface FeaturedProjectCardProps {
   title: string;
@@ -19,22 +20,44 @@ export function FeaturedProjectCard({
   siteUrl,
   date,
 }: FeaturedProjectCardProps) {
+  const [isPlaying, setIsPlaying] = useState(false);
+
   // Extract video ID from YouTube URL
-  const getYoutubeEmbedUrl = (url: string) => {
-    const videoId = url.split('v=')[1] || url.split('/').pop();
-    return `https://www.youtube.com/embed/${videoId}`;
+  const getVideoId = (url: string) => {
+    return url.split('v=')[1] || url.split('/').pop() || '';
   };
+
+  const videoId = getVideoId(youtubeUrl);
 
   return (
     <Card className="overflow-hidden transition-all hover:shadow-md flex flex-col h-full">
-      <div className="relative aspect-video w-full">
-        <iframe
-          src={getYoutubeEmbedUrl(youtubeUrl)}
-          title={title}
-          className="absolute top-0 left-0 w-full h-full"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
-        />
+      <div className="relative aspect-video w-full bg-black/5">
+        {!isPlaying ? (
+          <button
+            onClick={() => setIsPlaying(true)}
+            className="group relative w-full h-full flex items-center justify-center cursor-pointer overflow-hidden"
+            aria-label={`Play video for ${title}`}
+          >
+            <img
+              src={`https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`}
+              alt={`Thumbnail for ${title}`}
+              className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+              loading="lazy"
+            />
+            <div className="absolute inset-0 bg-black/20 group-hover:bg-black/30 transition-colors" />
+            <div className="relative z-10 w-16 h-16 flex items-center justify-center rounded-full bg-white/90 text-primary shadow-lg transition-transform duration-300 group-hover:scale-110 pl-1">
+              <Play className="w-8 h-8 fill-current" />
+            </div>
+          </button>
+        ) : (
+          <iframe
+            src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`}
+            title={title}
+            className="absolute top-0 left-0 w-full h-full"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        )}
       </div>
       <CardHeader>
         <div className="flex justify-between items-start gap-4">
