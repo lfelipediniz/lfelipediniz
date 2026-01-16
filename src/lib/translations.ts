@@ -61,8 +61,8 @@ export const translations: Translations = {
     pt: 'Bacharelado em Ciência da Computação na USP - Instituto de Ciências Matemáticas e de Computação (ICMC)',
   },
   'about.education.usp.date': {
-    en: 'Since March 2022',
-    pt: 'Desde Março de 2022',
+    en: 'March 2019 - December 2021',
+    pt: 'Março 2019 - Dezembro 2021',
   },
   'about.education.etec': {
     en: 'Technical Degree in Systems Development at ETEC Professor Camargo Aranha',
@@ -77,8 +77,8 @@ export const translations: Translations = {
     pt: 'Aluno pesquisador na FUSP',
   },
   'about.experience.fusp.date': {
-    en: 'August 2024 - Present',
-    pt: 'Agosto 2024 - Presente',
+    en: 'August 2024 - September 2025',
+    pt: 'Agosto 2024 - Setembro 2025',
   },
   'about.experience.fusp.description': {
     en: 'Participation in a scientific initiation project with USP, UFRJ, Stellantis, and Mobway. Development of vehicular applications using federated learning, computer vision, and data security.',
@@ -89,8 +89,8 @@ export const translations: Translations = {
     pt: 'SEMCOMP - Semana da Computação da USP São Carlos',
   },
   'about.experience.semcomp.date': {
-    en: 'March 2024 - Present',
-    pt: 'Março 2024 - Presente',
+    en: 'March 2024 - December 2024',
+    pt: 'Março 2024 - Dezembro 2024',
   },
   'about.experience.semcomp.description': {
     en: 'Web developer and hackathon organizer.',
@@ -101,12 +101,24 @@ export const translations: Translations = {
     pt: 'DATA - Grupo de Ciência de Dados e Aprendizado de Máquina da USP',
   },
   'about.experience.data.date': {
-    en: 'March 2024 - Present',
-    pt: 'Março 2024 - Presente',
+    en: 'March 2024 - July 2025',
+    pt: 'Março 2024 - Julho 2025',
   },
   'about.experience.data.description': {
     en: 'Member of the group, focused on data science and machine learning. Coordination of activities that unite industry, academia, and those interested in the field.',
     pt: 'Membro do grupo, focado em ciência de dados e machine learning. Coordenação de atividades que unem indústria, academia e interessados na área.',
+  },
+  'about.experience.ifood.title': {
+    en: 'Software Engineer Intern at iFood',
+    pt: 'Estagiário em Engenharia de Software no iFood',
+  },
+  'about.experience.ifood.date': {
+    en: 'January 2026 - Present',
+    pt: 'Janeiro 2026 - Presente',
+  },
+  'about.experience.ifood.description': {
+    en: ' ',
+    pt: ' ',
   },
   'about.skills.title': {
     en: 'Skills',
@@ -117,8 +129,8 @@ export const translations: Translations = {
     pt: 'Estas são as tecnologias nas quais tenho me concentrado no momento:',
   },
   'about.skills.focus': {
-    en: 'I\'m focusing on the fundamentals of software engineering while diving into machine learning with data science.',
-    pt: 'Estou me concentrando nos fundamentos da engenharia de software enquanto me aprofundo em machine learning com ciência de dados.',
+    en: 'I\'m focusing on the fundamentals of software engineering while diving into applied AI.',
+    pt: 'Estou me concentrando nos fundamentos da engenharia de software enquanto me aprofundo em IA aplicada.',
   },
 
   // Projects Section

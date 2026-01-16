@@ -11,8 +11,7 @@ export function About() {
   const skills = [
     { name: 'Python', color: 'bg-blue-500' },
     { name: 'TypeScript', color: 'bg-blue-600' },
-    { name: 'React', color: 'bg-sky-500' },
-    { name: 'C++', color: 'bg-indigo-500' },
+    { name: 'Software Engineering', color: 'bg-slate-700' },
     { name: 'Machine Learning', color: 'bg-purple-500' },
     { name: 'Data Science', color: 'bg-emerald-500' },
   ];
@@ -82,18 +81,30 @@ export function About() {
           </CardHeader>
           <CardContent className="space-y-6">
             <div className="space-y-2">
-              <h4 className="font-medium">{t('about.experience.fusp.title', language)}</h4>
+              <h4 className="font-medium">{t('about.experience.ifood.title', language)}</h4>
+              <p className="text-sm text-muted-foreground">{t('about.experience.ifood.date', language)}</p>
+              <p className="text-sm">{t('about.experience.ifood.description', language)}</p>
+            </div>
+
+            <div className="space-y-2">
+              <a href="https://gta.ufrj.br/avadip/" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                <h4 className="font-medium">{t('about.experience.fusp.title', language)}</h4>
+              </a>
               <p className="text-sm text-muted-foreground">{t('about.experience.fusp.date', language)}</p>
               <p className="text-sm">{t('about.experience.fusp.description', language)}</p>
             </div>
             <div className="space-y-2">
-              <h4 className="font-medium">{t('about.experience.data.title', language)}</h4>
+              <a href="http://data.icmc.usp.br" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                <h4 className="font-medium">{t('about.experience.data.title', language)}</h4>
+              </a>
               <p className="text-sm text-muted-foreground">{t('about.experience.data.date', language)}</p>
               <p className="text-sm">{t('about.experience.data.description', language)}</p>
             </div>
             
             <div className="space-y-2">
-              <h4 className="font-medium">{t('about.experience.semcomp.title', language)}</h4>
+              <a href="https://semcomp.icmc.usp.br/" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                <h4 className="font-medium">{t('about.experience.semcomp.title', language)}</h4>
+              </a>
               <p className="text-sm text-muted-foreground">{t('about.experience.semcomp.date', language)}</p>
               <p className="text-sm">{t('about.experience.semcomp.description', language)}</p>
             </div>
