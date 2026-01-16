@@ -61,7 +61,7 @@ export function About() {
             <CardContent className="space-y-4">
               <div className="flex flex-wrap gap-2">
                 {skills.map((skill) => (
-                  <Badge key={skill.name} className={`${skill.color} hover:${skill.color}/90 text-white`}>
+                  <Badge key={skill.name} className={`${skill.color} hover:${skill.color}/90 text-white skill-badge`}>
                     {skill.name}
                   </Badge>
                 ))}

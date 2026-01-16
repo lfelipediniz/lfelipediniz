@@ -158,4 +158,13 @@
     text-decoration: underline;
     text-decoration-thickness: 2px;
   }
+
+  .high-contrast .view-all-link {
+    color: hsl(var(--primary)) !important;
+  }
+
+  .high-contrast .skill-badge {
+    background-color: hsl(var(--primary)) !important;
+    color: hsl(var(--primary-foreground)) !important;
+  }
 }

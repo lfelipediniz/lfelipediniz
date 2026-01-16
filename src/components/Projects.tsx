@@ -122,20 +122,14 @@ export function Projects() {
             {!showAll ? (
               <p
                 onClick={handleShowAllClick}
-                className="hover:underline cursor-pointer"
-                style={{
-                  color: "rgb(30, 144, 255)",
-                }}
+                className="hover:underline cursor-pointer text-[rgb(30,144,255)] view-all-link"
               >
                 {t("projects.viewAll", language)}{" "}
               </p>
             ) : (
               <p
                 onClick={handleShowLessClick}
-                className="hover:underline cursor-pointer"
-                style={{
-                  color: "rgb(70, 130, 180)",
-                }}
+                className="hover:underline cursor-pointer text-[rgb(70,130,180)] view-all-link"
               >
                 {t("projects.viewLess", language)}{" "}
               </p>
