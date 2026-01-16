@@ -45,7 +45,7 @@ export function FeaturedProjectCard({
               loading="lazy"
             />
             <div className="absolute inset-0 bg-black/20 group-hover:bg-black/30 transition-colors" />
-            <div className="relative z-10 w-16 h-16 flex items-center justify-center rounded-full bg-white/90 text-primary shadow-lg transition-transform duration-300 group-hover:scale-110 pl-1">
+            <div className="relative z-10 w-16 h-16 flex items-center justify-center rounded-full bg-white/90 text-black shadow-lg transition-transform duration-300 group-hover:scale-110 pl-1">
               <Play className="w-8 h-8 fill-current" />
             </div>
           </button>
