@@ -16,7 +16,7 @@ const Index = () => {
           <main className="flex-grow">
             <Hero />
             <About />
-          <Projects />
+            <Projects />
             <Contact />
           </main>
           <footer className="py-6 border-t">

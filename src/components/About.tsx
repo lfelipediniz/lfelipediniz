@@ -40,6 +40,14 @@ export function About() {
               </div>
             </CardContent>
           </Card>
+
+          <div className="relative aspect-[3/4] overflow-hidden rounded-xl shadow-xl max-w-sm mx-auto w-full hover:scale-[1.02] transition-transform duration-300">
+            <img 
+              src="/images/palestra-icmc.jpg" 
+              alt="Palestrando no ICMC" 
+              className="object-cover w-full h-full"
+            />
+          </div>
           
           <Card className="overflow-hidden transition-all hover:shadow-md">
             <CardHeader className="pb-2">
@@ -64,7 +72,8 @@ export function About() {
           </Card>
         </div>
         
-        <Card className="overflow-hidden transition-all hover:shadow-md">
+        <div className="space-y-8">
+          <Card className="overflow-hidden transition-all hover:shadow-md">
           <CardHeader className="pb-2">
             <CardTitle className="flex items-center gap-2">
               <Briefcase className="h-5 w-5" />
@@ -91,6 +100,15 @@ export function About() {
             
           </CardContent>
         </Card>
+          
+          <div className="relative aspect-[3/4] overflow-hidden rounded-xl shadow-xl max-w-sm mx-auto w-full hover:scale-[1.02] transition-transform duration-300">
+            <img 
+              src="/images/tech-talents.jpg" 
+              alt="Tech Talents 2025" 
+              className="object-cover w-full h-full"
+            />
+          </div>
+        </div>
       </div>
     </section>
   );
