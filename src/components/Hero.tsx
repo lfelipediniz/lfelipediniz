@@ -49,7 +49,7 @@ export function Hero() {
           <Button 
             asChild 
             variant="outline" 
-            className="rounded-lg px-6 py-6 h-auto text-base border-2 border-primary/20 bg-background/50 backdrop-blur-sm hover:bg-primary/10 hover:border-primary/30 transition-all duration-300 group"
+            className="rounded-lg px-6 py-6 h-auto text-base border-2 border-primary/20 bg-background/50 backdrop-blur-sm hover:bg-primary/10 hover:border-primary/30 transition-all duration-300 group download-cv-btn"
           >
             <a 
               href={curriculumLink} 

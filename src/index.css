@@ -167,4 +167,14 @@
     background-color: hsl(var(--primary)) !important;
     color: hsl(var(--primary-foreground)) !important;
   }
+
+  .high-contrast .download-cv-btn:hover {
+    background-color: hsl(var(--foreground)) !important;
+    color: hsl(var(--background)) !important;
+    border-color: hsl(var(--foreground)) !important;
+  }
+
+  .high-contrast .download-cv-btn * {
+    background-color: transparent !important;
+  }
 }
