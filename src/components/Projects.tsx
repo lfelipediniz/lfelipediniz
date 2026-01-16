@@ -4,6 +4,7 @@ import { t } from "@/lib/translations";
 import { ArrowRight } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { FeaturedProjects } from "./FeaturedProjects";
 
 export function Projects() {
   const { language } = useLanguage();
@@ -66,6 +67,8 @@ export function Projects() {
         <p>{t("projects.empty", language)}</p>
       ) : (
         <div>
+          <FeaturedProjects />
+          
           {/* Filtros */}
           <div className="flex gap-4 mb-4">
             <Button

@@ -81,7 +81,9 @@ export function About() {
           </CardHeader>
           <CardContent className="space-y-6">
             <div className="space-y-2">
-              <h4 className="font-medium">{t('about.experience.ifood.title', language)}</h4>
+              <a href="https://carreiras.ifood.com.br/culture/" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                <h4 className="font-medium">{t('about.experience.ifood.title', language)}</h4>
+              </a>
               <p className="text-sm text-muted-foreground">{t('about.experience.ifood.date', language)}</p>
               <p className="text-sm">{t('about.experience.ifood.description', language)}</p>
             </div>

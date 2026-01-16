@@ -182,6 +182,44 @@ export const translations: Translations = {
     pt: 'Mais Estrelas',
   },
 
+  // Featured Projects
+  'projects.featured.title': {
+    en: 'Featured Projects',
+    pt: 'Projetos em Destaque',
+  },
+  'projects.grind.description': {
+    en: 'University extension group at ICMC-USP focused on preparing students for technical interviews at Big Techs. The project covers data structures, algorithms, system design, and behavioral interviews through weekly practices and simulations.',
+    pt: 'Grupo de extensão universitária do ICMC-USP focado na preparação de alunos para entrevistas técnicas em Big Techs. O projeto aborda estruturas de dados, algoritmos, design de sistemas e entrevistas comportamentais através de práticas semanais e simulações.',
+  },
+  'projects.grind.date': {
+    en: 'January 2026',
+    pt: 'Janeiro de 2026',
+  },
+  'projects.vox.description': {
+    en: 'Intelligent voice navigation platform for Android, focused on real digital inclusion. Unlike common screen readers, it uses AI "superagents" to completely control the device and automate complex flows (like ordering an Uber) through voice commands, aiming to assist visually impaired individuals and people with low digital literacy.',
+    pt: 'Plataforma de navegação inteligente por voz para Android, focada em inclusão digital real. Diferente de leitores de tela comuns, utiliza "superagentes" de IA para controlar completamente o dispositivo e automatizar fluxos complexos (como pedir um Uber) através de comandos de voz, visando auxiliar deficientes visuais e pessoas com baixa literacia digital.',
+  },
+  'projects.vox.date': {
+    en: 'November 1, 2025',
+    pt: '1 de Novembro de 2025',
+  },
+  'projects.tacerto.description': {
+    en: 'WhatsApp bot that uses multimodal artificial intelligence and fact-checking APIs to combat misinformation in an accessible way. The project allows verifying the veracity of messages without leaving the app and aims to create an analytics infrastructure for researchers and journalists to monitor Fake News patterns.',
+    pt: 'Bot de WhatsApp que utiliza inteligência artificial multimodal e APIs de fact-checking para combater a desinformação de forma acessível. O projeto permite verificar a veracidade de mensagens sem sair do app e visa criar uma infraestrutura de analytics para pesquisadores e jornalistas monitorarem padrões de Fake News.',
+  },
+  'projects.tacerto.date': {
+    en: 'September 20, 2025',
+    pt: '20 de Setembro de 2025',
+  },
+  'projects.risum.description': {
+    en: 'Course Completion Work (TCC) project developed at ETEC Professor Camargo Aranha, referring to the High School Integrated to the Systems Development Technical Course.',
+    pt: 'Projeto de Trabalho de Conclusão de Curso (TCC) desenvolvido na ETEC Professor Camargo Aranha, referente ao Ensino Médio Integrado ao Curso Técnico de Desenvolvimento de Sistemas.',
+  },
+  'projects.risum.date': {
+    en: '2021',
+    pt: '2021',
+  },
+
   // Contact Section
   'contact.title': {
     en: 'Contact',
