@@ -3,6 +3,7 @@ import { useLanguage } from "@/hooks/useLanguage";
 import { t } from "@/lib/translations";
 import { LanguageToggle } from "./LanguageToggle";
 import { ThemeToggle } from "./ThemeToggle";
+import { HighContrastToggle } from "./HighContrastToggle";
 import { useState, useEffect } from "react";
 
 export function Header() {
@@ -62,6 +63,7 @@ export function Header() {
             <div className="flex items-center space-x-2">
               <LanguageToggle />
               <ThemeToggle />
+              <HighContrastToggle />
             </div>
           </div>
         </nav>

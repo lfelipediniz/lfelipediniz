@@ -61,8 +61,8 @@ export const translations: Translations = {
     pt: 'Bacharelado em Ciência da Computação na USP - Instituto de Ciências Matemáticas e de Computação (ICMC)',
   },
   'about.education.usp.date': {
-    en: 'March 2019 - December 2021',
-    pt: 'Março 2019 - Dezembro 2021',
+    en: 'Since 2022',
+    pt: 'Desde de 2022',
   },
   'about.education.etec': {
     en: 'Technical Degree in Systems Development at ETEC Professor Camargo Aranha',
