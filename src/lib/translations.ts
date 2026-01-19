@@ -24,6 +24,18 @@ export const translations: Translations = {
     en: 'Contact',
     pt: 'Contato',
   },
+  'header.toggleTheme': {
+    en: 'Toggle theme',
+    pt: 'Alternar tema',
+  },
+  'header.toggleLanguage': {
+    en: 'Toggle language',
+    pt: 'Alternar idioma',
+  },
+  'header.toggleHighContrast': {
+    en: 'Toggle High Contrast',
+    pt: 'Alternar Alto Contraste',
+  },
 
   // Hero Section
   'hero.greeting': {

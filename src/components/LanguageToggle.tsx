@@ -1,5 +1,6 @@
 
 import { useLanguage } from "@/hooks/useLanguage";
+import { t } from "@/lib/translations";
 import { Button } from "@/components/ui/button";
 import { useState, useEffect } from "react";
 
@@ -21,6 +22,7 @@ export function LanguageToggle() {
       onClick={() => setLanguage(language === 'en' ? 'pt' : 'en')}
       className="font-medium text-sm"
       aria-label="Toggle language"
+      title={t('header.toggleLanguage', language)}
     >
       <span className="sr-only">Toggle language</span>
       {language === 'en' ? 'PT' : 'EN'}
