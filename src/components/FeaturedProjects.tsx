@@ -9,7 +9,7 @@ export function FeaturedProjects() {
     {
       title: "Grind ICMC",
       description: t("projects.grind.description", language),
-      youtubeUrl: "https://www.youtube.com/watch?v=1odrxT0l5Pc",
+      youtubeUrl: "https://youtu.be/3RH0oQjrj1k",
       githubUrl: "https://github.com/Grind-ICMC",
       siteUrl: "https://grindicmc.netlify.app/",
       date: t("projects.grind.date", language),
